@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;• smoke<br>
 &nbsp;&nbsp;&nbsp;• критического пути<br>
 <strong>Инструменты:</strong> Jira (баг-трекинг), Git.<br>
-<strong>Работа с API:</strong> Postman<br>
+<strong>Работа с API:</strong> Postman, Bruno<br>
 <strong>Технологии:</strong><br>
 &nbsp;&nbsp;&nbsp;• понимание клиент-серверной архитектуры<br> 
 &nbsp;&nbsp;&nbsp;• HTML/CSS (основы)<br> 
